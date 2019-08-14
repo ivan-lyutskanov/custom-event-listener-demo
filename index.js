@@ -1,3 +1,4 @@
+// const Emmiter = require("events");
 const Emmiter = require("./Emmiter");
 
 const emtr = new Emmiter();
